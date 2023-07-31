@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+interrupt
+	__CC2DW
+		____DoICP
